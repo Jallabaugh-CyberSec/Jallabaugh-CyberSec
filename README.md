@@ -20,5 +20,5 @@ He/him
 I once managed over 1,000 cameras and access control systems solo at Mohegan, ensuring compliance with PGCB standards—all while resolving incidents within 24 hours!  
 At Camp Bow Wow in 2022, I managed operations for a pet care facility, ensuring safety protocols were as tight as any IT network I’ve secured—pets and systems both need protection!  
 I’m a triple-degree holder—SRA, IST, and CIS—geeking out over risk analysis, network systems, and coding solutions.
-While working at Travelocity and RCN from 2004 to 2009, I trained teams on tech support systems, turning complex IT issues into user-friendly solutions for hundreds of customers.
+Working at Travelocity and RCN from 2004 to 2009, I trained teams on tech support systems, turning complex IT issues into user-friendly solutions for hundreds of customers.
 I’ve worked solo in high-pressure environments, which taught me how to stay calm and solve problems fast—even when the stakes are high!
