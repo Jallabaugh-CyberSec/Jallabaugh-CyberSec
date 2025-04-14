@@ -11,7 +11,7 @@ I’m preparing for CompTIA Security+ (May 2025), CCST Cybersecurity and Network
 Cybersecurity projects involving log analysis, network scanning, secure coding, or automation, especially open-source tools like Snort or OWASP projects in incident response and threat detection.
 
 - 📫 How to reach me ...  
-Connect with me on LinkedIn at [linkedin.com/in/jallabaugh](https://www.linkedin.com/in/jallabaugh) or email me at [your.email@example.com] (replace with your email). I’m open to networking and opportunities in cybersecurity!
+Connect with me on LinkedIn at [linkedin.com/in/jallabaugh](https://www.linkedin.com/in/jallabaugh)  I’m open to networking and opportunities in cybersecurity!
 
 - 😄 Pronouns: ...  
 He/him
