@@ -17,9 +17,4 @@ Connect with me on LinkedIn at [linkedin.com/in/jallabaugh](https://www.linkedin
 He/him
 
 - ⚡ Fun facts: ...  
-I once managed over 1,000 cameras and access control systems solo at Mohegan, ensuring compliance with PGCB standards—all while resolving incidents within 24 hours!  
-  
-
-I’m a triple-degree holder—SRA, IST, and CIS—geeking out over risk analysis, network systems, and coding solutions.  
-
-I’ve worked solo in high-pressure environments, which taught me how to stay calm and solve problems fast—even when the stakes are high!
+I once managed over 1,000 cameras and access control systems solo at Mohegan, ensuring compliance with PGCB standards—all while resolving incidents within 24 hours!  I’m a triple-degree holder—SRA, IST, and CIS—geeking out over risk analysis, network systems, and coding solutions.  I’ve worked solo in high-pressure environments, which taught me how to stay calm and solve problems fast—even when the stakes are high!
